@@ -202,8 +202,8 @@ template {
 
 @font-face {
     font-family: nuckle extra;
-    src: url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-ExtraLight.eot);
-    src: local("Nuckle Extra Light"), local("Nuckle-ExtraLight"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-ExtraLight.eot?#iefix)format("embedded-opentype"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-ExtraLight.woff2)format("woff2"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-ExtraLight.woff)format("woff"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-ExtraLight.ttf)format("truetype");
+    src: url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2);
+    src: local("Nuckle Extra Light"), local("Nuckle-ExtraLight"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2?#iefix)format("embedded-opentype"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2)format("woff2"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2)format("woff"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2)format("truetype");
     font-weight: 200;
     font-style: normal;
     font-display: swap
@@ -211,8 +211,8 @@ template {
 
 @font-face {
     font-family: hagrid;
-    src: url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/hagrid/Hagrid-Regular.eot);
-    src: local("Hagrid Regular"), local("Hagrid-Regular"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/hagrid/Hagrid-Regular.eot?#iefix)format("embedded-opentype"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/hagrid/Hagrid-Regular.woff2)format("woff2"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/hagrid/Hagrid-Regular.woff)format("woff"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/hagrid/Hagrid-Regular.ttf)format("truetype");
+    src: url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Hagrid-Regular.eot);
+    src: local("Hagrid Regular"), local("Hagrid-Regular"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Hagrid-Regular.eot?#iefix)format("embedded-opentype"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2)format("woff2"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2)format("woff"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2)format("truetype");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -220,8 +220,8 @@ template {
 
 @font-face {
     font-family: nuckle hairline;
-    src: url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Hairline.eot);
-    src: local("Nuckle Hairline"), local("Nuckle-Hairline"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Hairline.eot?#iefix)format("embedded-opentype"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Hairline.woff2)format("woff2"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Hairline.woff)format("woff"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Hairline.ttf)format("truetype");
+    src: url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2);
+    src: local("Nuckle Hairline"), local("Nuckle-Hairline"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2?#iefix)format("embedded-opentype"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2)format("woff2"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2)format("woff"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2)format("truetype");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -229,8 +229,8 @@ template {
 
 @font-face {
     font-family: nuckle;
-    src: url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Bold.eot);
-    src: local("Nuckle Bold"), local("Nuckle-Bold"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Bold.eot?#iefix)format("embedded-opentype"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Bold.woff2)format("woff2"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Bold.woff)format("woff"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Bold.ttf)format("truetype");
+    src: url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Medium.woff2);
+    src: local("Nuckle Bold"), local("Nuckle-Bold"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Medium.woff2?#iefix)format("embedded-opentype"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Medium.woff2)format("woff2"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Medium.woff2)format("woff"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Medium.woff2)format("truetype");
     font-weight: 700;
     font-style: normal;
     font-display: swap
@@ -238,8 +238,8 @@ template {
 
 @font-face {
     font-family: nuckle;
-    src: url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Thin.eot);
-    src: local("Nuckle Thin"), local("Nuckle-Thin"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Thin.eot?#iefix)format("embedded-opentype"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Thin.woff2)format("woff2"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Thin.woff)format("woff"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Thin.ttf)format("truetype");
+    src: url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2);
+    src: local("Nuckle Thin"), local("Nuckle-Thin"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2?#iefix)format("embedded-opentype"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2)format("woff2"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2)format("woff"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2)format("truetype");
     font-weight: 100;
     font-style: normal;
     font-display: swap
@@ -247,8 +247,8 @@ template {
 
 @font-face {
     font-family: nuckle;
-    src: url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Medium.eot);
-    src: local("Nuckle Medium"), local("Nuckle-Medium"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Medium.eot?#iefix)format("embedded-opentype"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Medium.woff2)format("woff2"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Medium.woff)format("woff"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Medium.ttf)format("truetype");
+    src: url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Medium.eot);
+    src: local("Nuckle Medium"), local("Nuckle-Medium"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Medium.eot?#iefix)format("embedded-opentype"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Medium.woff2)format("woff2"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Medium.woff)format("woff"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Medium.ttf)format("truetype");
     font-weight: 500;
     font-style: normal;
     font-display: swap
@@ -256,8 +256,8 @@ template {
 
 @font-face {
     font-family: nuckle;
-    src: url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Light.eot);
-    src: local("Nuckle Light"), local("Nuckle-Light"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Light.eot?#iefix)format("embedded-opentype"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Light.woff2)format("woff2"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Light.woff)format("woff"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Light.ttf)format("truetype");
+    src: url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2);
+    src: local("Nuckle Light"), local("Nuckle-Light"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2?#iefix)format("embedded-opentype"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2)format("woff2"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2)format("woff"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2)format("truetype");
     font-weight: 300;
     font-style: normal;
     font-display: swap
@@ -265,8 +265,8 @@ template {
 
 @font-face {
     font-family: nuckle;
-    src: url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Semibold.eot);
-    src: local("Nuckle Semibold"), local("Nuckle-Semibold"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Semibold.eot?#iefix)format("embedded-opentype"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Semibold.woff2)format("woff2"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Semibold.woff)format("woff"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Semibold.ttf)format("truetype");
+    src: url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Medium.woff2);
+    src: local("Nuckle Semibold"), local("Nuckle-Semibold"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Medium.woff2?#iefix)format("embedded-opentype"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Medium.woff2)format("woff2"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Medium.woff2)format("woff"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Medium.woff2)format("truetype");
     font-weight: 600;
     font-style: normal;
     font-display: swap
@@ -274,8 +274,8 @@ template {
 
 @font-face {
     font-family: nuckle;
-    src: url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Regular.eot);
-    src: local("Nuckle Regular"), local("Nuckle-Regular"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Regular.eot?#iefix)format("embedded-opentype"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Regular.woff2)format("woff2"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Regular.woff)format("woff"), url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/nuckle/Nuckle-Regular.ttf)format("truetype");
+    src: url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.eot);
+    src: local("Nuckle Regular"), local("Nuckle-Regular"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.eot?#iefix)format("embedded-opentype"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff2)format("woff2"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.woff)format("woff"), url(../../themes/avellana-studio/assets/dist/fonts/nuckle/Nuckle-Regular.ttf)format("truetype");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -283,7 +283,7 @@ template {
 
 @font-face {
     font-family: helvetica now;
-    src: url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/helvetica/HelveticaNowVar.ttf)format("truetype-variations");
+    src: url(../../themes/avellana-studio/assets/dist/fonts/helvetica/HelveticaNowVar.ttf)format("truetype-variations");
     font-weight: 100 900;
     font-stretch: 75% 125%;
     font-style: normal;
@@ -292,7 +292,7 @@ template {
 
 @font-face {
     font-family: helvetica now;
-    src: url(https://avellanastudio.com/wp-content/themes/avellana-studio/assets/dist/css/../fonts/helvetica/HelveticaNowVarItalic.ttf)format("truetype-variations");
+    src: url(../../themes/avellana-studio/assets/dist/fonts/helvetica/HelveticaNowVar.ttf)format("truetype-variations");
     font-weight: 100 900;
     font-stretch: 75% 125%;
     font-style: italic;
