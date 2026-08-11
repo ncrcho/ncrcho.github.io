@@ -1376,11 +1376,12 @@
         </div>
       </div>
 
-  <section class="about-section">
+<section class="about-section">
   <style>
     .about-section {
       width: 100%;
-      padding: 250px 20px 210px;
+      padding: 250px 0 210px;
+      box-sizing: border-box;
     }
 
     .about-grid {
@@ -1391,8 +1392,9 @@
     }
 
     .about-content {
-      grid-column: 1;
+      grid-column: 2;
       grid-row: 1;
+      padding-left: 0.5rem;
     }
 
     .about-content h2 {
@@ -1404,14 +1406,15 @@
     .about-content p {
       max-width: 66.66666667%;
       margin: 0;
-      font-size: 18px;
+      font-size: 1vw;
       line-height: 1.5;
     }
 
     .about-email {
-      grid-column: 1;
+      grid-column: 2;
       grid-row: 2;
       align-self: end;
+      padding-left: 0.5rem;
     }
 
     .about-email a {
@@ -1422,10 +1425,13 @@
     }
 
     @media (max-width: 768px) {
+      .about-section {
+        padding: 190px 20px 90px;
+      }
+
       .about-grid {
         grid-template-columns: 1fr;
         grid-template-rows: auto auto;
-        
       }
 
       .about-content {
@@ -1442,10 +1448,6 @@
       .about-content p {
         max-width: 100%;
       }
-      .about-section {
-      width: 100%;
-      padding: 190px 20px 90px;
-    }
     }
   </style>
 
